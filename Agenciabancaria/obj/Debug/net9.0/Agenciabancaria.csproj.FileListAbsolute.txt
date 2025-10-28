@@ -1,0 +1,15 @@
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\bin\Debug\net9.0\Agenciabancaria.exe
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\bin\Debug\net9.0\Agenciabancaria.deps.json
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\bin\Debug\net9.0\Agenciabancaria.runtimeconfig.json
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\bin\Debug\net9.0\Agenciabancaria.dll
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\bin\Debug\net9.0\Agenciabancaria.pdb
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.AssemblyInfoInputs.cache
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.AssemblyInfo.cs
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.csproj.CoreCompileInputs.cache
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.sourcelink.json
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.dll
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\refint\Agenciabancaria.dll
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.pdb
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\Agenciabancaria.genruntimeconfig.cache
+C:\Users\58115162825\Desktop\backend\Agenciabancaria\obj\Debug\net9.0\ref\Agenciabancaria.dll
